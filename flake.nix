@@ -2,7 +2,7 @@
   description = "Decrypt and encrypt agenix secrets inside Emacs";
 
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/release-24.05";
+    nixpkgs.url = "github:NixOS/nixpkgs/release-25.05";
 
     flake-parts = {
       url = "github:hercules-ci/flake-parts";
